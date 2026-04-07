@@ -1,0 +1,5 @@
+{
+  "name": "دليل البقاء (Survival Guide)",
+  "description": "تطبيق شامل لمهارات البقاء على قيد الحياة والاستعداد للطوارئ بدون إنترنت.",
+  "requestFramePermissions": ["geolocation"]
+}
